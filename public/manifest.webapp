@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "name": "Kaji Chat",
+  "launch_path": "/index.html",
+  "description": "Kaji Chat with Firebase",
+  "developer": {
+    "name": "kajiken",
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "ja",
+  "permissions": {
+  },
+  "locales": {
+    "ja": {
+      "name": "Kaji Chat",
+      "description": "kaji-app"
+    }
+  }
+}
